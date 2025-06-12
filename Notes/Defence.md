@@ -30,3 +30,41 @@ By understanding the likely threats, a company can prepare better security strat
 ### **Adversary (Cybersecurity)**
 
 An **adversary** is anyone who tries to attack or harm a system, network, or data. This can include hackers, ransomware groups, insider threats, or even government-backed attackers. They are the main threat that cybersecurity teams work to defend against.
+
+### **Digital Forensics and Incident Response (DFIR)**
+
+This includes three key areas:
+
+* **Digital Forensics**
+* **Incident Response**
+* **Malware Analysis**
+
+### **Digital Forensics**
+
+Digital forensics is about investigating digital crimes using science and technology. It helps analyze attacks and gather evidence.
+
+Key focus areas:
+
+* **File System**: Looks into files on a device (including deleted ones) by examining a full system copy.
+* **System Memory**: Captures what's running in memory, especially helpful if malware never touches the disk.
+* **System Logs**: Tracks system activity. Even if hackers delete logs, traces may remain.
+* **Network Logs**: Monitors data flowing in and out of the network to understand the attack.
+
+### **Incident Response**
+
+Incident response is how an organization deals with cyber attacks or breaches. The goal is to **reduce damage** and **recover quickly**.
+
+#### Common incidents:
+
+* Data breaches
+* Website defacement
+* Denial of service attacks
+* Intrusion attempts
+* Policy violations
+
+#### Four Phases of Incident Response:
+
+1. **Preparation**: Have a trained team and preventive measures in place.
+2. **Detection and Analysis**: Spot incidents and understand how serious they are.
+3. **Containment, Eradication, Recovery**: Stop the spread, remove the threat, and fix the systems.
+4. **Post-Incident Activity**: Make a report and learn from the event to improve in the future.
