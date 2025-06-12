@@ -17,3 +17,6 @@ Mitigations (Best Practices for OTP):
  * Implement OTP expiry.
  * Implement OTP client and server-side verification, not just response verification.
  * Discard the OTP after 3 or 5 wrong attempts and send a new OTP for subsequent attempts.
+To practice 
+1) https://www.anandabazar.com/
+2) https://www.homelane.com/
