@@ -8,8 +8,9 @@ Tools used to discover hidden or unlinked directories and files on a web server 
 Performs directory brute-forcing on websites.
 
 #### Command
-`dirbuster -u <url> -w <wordlist>`
-
+```shell
+dirbuster -u <url> -w <wordlist>
+```
 #### Use Case
 Used to find hidden folders or files on a web server.
 
@@ -19,10 +20,13 @@ Used to find hidden folders or files on a web server.
 Fast command-line tool for directory brute-forcing with advanced options like threading, status code filtering, and reporting.
 
 #### Command
-`dirsearch -u <url> -e php,html -t 50`
+```shell
+dirsearch -u <url> -e php,html -t 50
+```
 
 Or for batch scanning:
-`dirsearch -l subdomain.txt -t 100 --plain-text-report=dir.txt -i 200,403`
-
+```shell
+dirsearch -l subdomain.txt -t 100 --plain-text-report=dir.txt -i 200,403
+```
 #### Use Case
 Used to discover hidden paths efficiently; suitable for automation and large-scale scans.
