@@ -26,3 +26,7 @@ Threat Intelligence is the process of gathering information about possible attac
   * Ransomware groups (financial gain)
 
 By understanding the likely threats, a company can prepare better security strategies.
+
+### **Adversary (Cybersecurity)**
+
+An **adversary** is anyone who tries to attack or harm a system, network, or data. This can include hackers, ransomware groups, insider threats, or even government-backed attackers. They are the main threat that cybersecurity teams work to defend against.
