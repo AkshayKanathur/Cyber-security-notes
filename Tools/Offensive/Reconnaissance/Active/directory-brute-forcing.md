@@ -12,3 +12,17 @@ Performs directory brute-forcing on websites.
 
 #### Use Case
 Used to find hidden folders or files on a web server.
+
+## Dirsearch
+
+#### Description
+Fast command-line tool for directory brute-forcing with advanced options like threading, status code filtering, and reporting.
+
+#### Command
+`dirsearch -u <url> -e php,html -t 50`
+
+Or for batch scanning:
+`dirsearch -l subdomain.txt -t 100 --plain-text-report=dir.txt -i 200,403`
+
+#### Use Case
+Used to discover hidden paths efficiently; suitable for automation and large-scale scans.
