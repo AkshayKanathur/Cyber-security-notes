@@ -149,4 +149,18 @@ Controls are used alongside frameworks to reduce the possibility and impact of a
 
 ![image](https://github.com/user-attachments/assets/216d5bf8-8761-45e4-a046-53da88d4686f)
 
+#### NIST's CSF Core Functions
 
+![image](https://github.com/user-attachments/assets/5e1804ee-430c-4031-a17e-c1d0d384870f)
+
+![image](https://github.com/user-attachments/assets/9206dc41-7da6-41b2-83f2-79a167b3ef44)
+
+![image](https://github.com/user-attachments/assets/2e4e7a69-927c-4089-9efc-f78c62845b5a)
+
+![image](https://github.com/user-attachments/assets/1fa91c4a-d017-4f4c-aae8-68291099e6c2)
+
+![image](https://github.com/user-attachments/assets/7dbcd639-d9b2-44ca-b908-4372e633a0e1)
+
+![image](https://github.com/user-attachments/assets/aa396812-7dfb-4fe2-8966-80a082bba75b)
+
+![image](https://github.com/user-attachments/assets/fe7f7ae7-899f-4988-a559-dd079c80e686)
