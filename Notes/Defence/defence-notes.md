@@ -140,3 +140,13 @@ Controls are used alongside frameworks to reduce the possibility and impact of a
 ![image](https://github.com/user-attachments/assets/a33fcf02-5449-43a7-ae72-bee41f30d15a)
 
 ![image](https://github.com/user-attachments/assets/dff3aa30-34c1-4110-9135-ca8014b30a4d)
+
+#### NIST's CSF
+
+![image](https://github.com/user-attachments/assets/c5a906b3-697d-472d-b81e-6fea66b83730)
+
+##### NIST's Special Publication
+
+![image](https://github.com/user-attachments/assets/216d5bf8-8761-45e4-a046-53da88d4686f)
+
+
