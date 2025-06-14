@@ -68,3 +68,6 @@ Incident response is how an organization deals with cyber attacks or breaches. T
 2. **Detection and Analysis**: Spot incidents and understand how serious they are.
 3. **Containment, Eradication, Recovery**: Stop the spread, remove the threat, and fix the systems.
 4. **Post-Incident Activity**: Make a report and learn from the event to improve in the future.
+
+![image](https://github.com/user-attachments/assets/28896053-ad64-4bbb-b7d4-c852285c3205)
+
