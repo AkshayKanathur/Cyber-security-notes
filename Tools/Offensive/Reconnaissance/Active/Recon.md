@@ -232,7 +232,9 @@ cat finalsubdomain.txt | wc -l
 ```
 cat finalsubdomain.txt | httpx -threads 200 | tee -a subdomain.txt
 ```
-
+```
+cat vulnweb_subs.txt | httpx-toolkit -threads 20 -silent -mc 200,301,302,403,401,405 | tee -a live_subs_vulnweb.txt
+```
 ```
 cat subdomain.txt | wc -l
 ```
